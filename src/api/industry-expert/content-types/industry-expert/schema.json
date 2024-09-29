@@ -1,0 +1,46 @@
+{
+  "kind": "singleType",
+  "collectionName": "industry_experts",
+  "info": {
+    "singularName": "industry-expert",
+    "pluralName": "industry-experts",
+    "displayName": "Industry experts",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "team1": {
+      "type": "string"
+    },
+    "detail1": {
+      "type": "string"
+    },
+    "team2": {
+      "type": "text"
+    },
+    "detail2": {
+      "type": "text"
+    },
+    "team3": {
+      "type": "string"
+    },
+    "detail3": {
+      "type": "text"
+    },
+    "team4": {
+      "type": "string"
+    },
+    "detail4": {
+      "type": "string"
+    },
+    "team5": {
+      "type": "string"
+    },
+    "detail5": {
+      "type": "text"
+    }
+  }
+}
